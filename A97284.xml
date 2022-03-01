@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and full narrative of the proceedings of Admirall Vantrump VVith the Dutch fleet at sea; his entring of Cales Bay: and the manner of the taking of ninety saile of the Hollanders ships by the English: with the proceedings of the French fleet therupon. Also a message to the English consull at the city of Venice, and Vantrumps letter to the Princes of Italy. Likewise, the Jesuits proceedings of the city of Genoa and a sermon preached, touching the heriticks of England, as they are pleased to call us. With other particulars of great concernment, in relation thereunto.</title>
+            <author>R. Y.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97284</idno>
+            <idno type="STC">Wing Y4</idno>
+            <idno type="STC">Thomason E647_4</idno>
+            <idno type="STC">ESTC R208792</idno>
+            <idno type="EEBO-CITATION">99867716</idno>
+            <idno type="PROQUEST">99867716</idno>
+            <idno type="VID">165996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E647[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and full narrative of the proceedings of Admirall Vantrump VVith the Dutch fleet at sea; his entring of Cales Bay: and the manner of the taking of ninety saile of the Hollanders ships by the English: with the proceedings of the French fleet therupon. Also a message to the English consull at the city of Venice, and Vantrumps letter to the Princes of Italy. Likewise, the Jesuits proceedings of the city of Genoa and a sermon preached, touching the heriticks of England, as they are pleased to call us. With other particulars of great concernment, in relation thereunto.</title>
+                  <author>R. Y.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R. Y.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165996:1" rendition="simple:additions"/>
+            <p>A DECLARATION And full Narrative of the proceedings of Admirall Vantrump VVith the Dutch Fleet at Sea; his entring of Cales Bay: And the manner of the taking of ninety ſaile of the Hollanders ſhips by the Eng<g ref="char:EOLhyphen"/>liſh: with the proceedings of the French Fleet therupon.</p>
+            <p>Alſo a Meſſage to the Engliſh Conſull at the city of Venice, and Vantrumps Letter to the Princes of Italy.</p>
+            <p>Likewiſe, the Jeſuits proceedings of the City of GENOA and a Sermon preached, touching the Heriticks of <hi>ENGLAND,</hi> as they are pleaſed to call us. With other particulars of great concernment, in relation thereunto.</p>
+            <p>LONDON, Printed for <hi>I. Clowes Anno Dom.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165996:2"/>
+            <pb n="1" facs="tcp:165996:2"/>
+            <head>Strange Nevvs from <hi>Genoa 27 October</hi> 1651.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E have little news, ſave that the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> who will with their Admirall <hi>Trump</hi> be 45. ſaile of men of War, ſuddenly will randezvouz in <hi>Cales Bay,</hi> for what deſigne this winter we know not well: He hath writ ſeverall Letters to the Princes of <hi>Italy,</hi> declaring that the quarrel is not againſt any of them, but the French for their pyrating; Now the French will at moſt be but ten men of War abroad this winter, whereof as yet are but three, whereby the fleet cannot be immediately for them. Some Letters from <hi>London</hi> of this laſt week ſpeak of the Dutch Agents or reſidcnts ſudden retirement from <hi>London</hi> without taking leave, alſo that the Engliſh have ſeized on neare 90. ſaile of their ſhips, whereby its thought a War (for thoſe and other reſpects) may happen between the two ſtates.<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:165996:3"/>Captaine <hi>Penne</hi> we underſtand is gone for the Straights mouth with his ſqudron to catch the New-found Land: <hi>Baccaleau</hi> french men that furniſh <hi>Marſellis</hi> and many o<g ref="char:EOLhyphen"/>ther places of France with their Winter and Lent proviſi<g ref="char:EOLhyphen"/>on; its thought the taking of them may make a mutiny in <hi>France</hi> againſt thoſe that of their Nation firſt ſet out ſhip<g ref="char:EOLhyphen"/>ping againſt the Engliſh, we ſhall heare the effect.</p>
+            <p>To this Town came lately a Jeſuit extraordinary from his <hi>Hollinei</hi> (for ſooth) with ſpeciall order to pardon the ſins of thoſe upon confeſſion, though they have been 20. years 25. yeares without confeſſing, ſo full of clemency and grace is the Pope, this man preaches heare 2 or 3 times a day, and makes people run mad after him, admiring his ſanctity and zeale: The Pulpits here uſually are long, ſo that two or three perſons may be in one of them at one and the ſame time, and becauſe this man would ſhew his learning, and how ſound their Religion i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he hath a fellow that now and then comes up into the Pulpit to him during the preachment, and at his Q. falls to diſputing with him concerning ſome of their tenents as ſeeming to oppoſe them, but at length being ſilenced and conſuted by the Jeſu<g ref="char:EOLhyphen"/>ite, their compoſed argument ceaſeth, 'and down goes my fellow again; ſo that they that have been there to heare them, tell us of great ſport and recreation they afford to the people.</p>
+            <p>His chief drift is at two things. 1. To convert the He<g ref="char:EOLhyphen"/>reticks as he calls us, next to ſtir up the people to part with their monyes in exchange of Prayers and Maſſes for their Grandfathers and friends departed, and this he doth by ſpeciall authority from the Pope, the collection of monyes ſo gathred being for the Church. And (ſayes he) beleeve not theſe ranck and ſtinking Hereticks that ſay, there is no Purgatory (ſpisting at them as he is ſpeaking)
+<pb n="5" facs="tcp:165996:3"/>
+for Chriſt ſayes, there is 2 purgatory, the primitive Church alſo confirmes it, as the Popes, Cardinalls, and Councells likewiſe doe, but <hi>Calvin</hi> forſooth, he like an impudent fellow tells you 'tis all lyes, all forgeries, all ſtories we tell you. He, (ſayes he) is one of the three <hi>Pillars</hi> of their Church: <hi>Luther</hi> and Queene <hi>Elizabeth</hi> being the others. <hi>This Toun I look upon (ſayes he) as a great place for Hereſie, Oh that I could but have one oſ them to diſpute with me here before you all, that I might ſhamefully lay him on his back.</hi> We ſee (ſaith he) what their ſweet Religion hath brought them to in <hi>England:</hi> I have been told but very lately by ſome Engliſh Gentlemen come from thence, that they have one Sect called the <hi>Adamites</hi> ſtill amongſt them, and declared their nakedneſſe, and manners, rendring that Religion moſt hidious to this people, who think we are all of one minde. <hi>Taking occaſion to ſpeak of</hi> Mary Magdalens <hi>Converſion, he ſaid ſhe was not ſo highly guilty of incontinency as the world talks of, for ſhe never had to do with a man but 3 or 4 times, the manner thus. She being a great Queen ſaith be, young and handſome, ſhe fell in love with her Secretary (alas youth is apt that way you know) and ſo ly that means he lay with her 3 times Now this Secretary not being able to containe ſo great a happi<g ref="char:EOLhyphen"/>neſſe, tells an intimate friend of his how that he was made for e ver by his Miſtreſſes (the Queens) affection: &amp; what had paſſed Ay ſaith the other, you muſt procure me the like favour of the Queen, or elſe I am reſolved to divulge thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> I hope not ſo ſaith the Secretary: Its neither more nor leſſe than I tell you of ſaith the other.</p>
+            <p>Hereupon the Secretary goes to the Queen a moſt ſad man, declares to her how that the felicity of her love was ſo inſupportabl that he had revealed it to a confident friend of his, but that he had deceived him, for he declared to re<g ref="char:EOLhyphen"/>veale the buſineſſe unleſſe ſhe admit him to the like happi<g ref="char:EOLhyphen"/>neſſe. The Queen here upon knew not what to ſay, poore woman, being put to ſuch a plunge, but at length to ſave
+<pb n="6" facs="tcp:165996:4"/>
+her honour choſe to lay with him; and this is all that people make ſuch a ſtir for ſooth quoth he, concerning this Queen, <hi>Mary Magdalen.</hi>
+            </p>
+            <p>This wretch was ſo blaſphemouſly impudent as to aſſert in his Sermons, that a Prieſt was in ſome reſpects more then God himſelf, for that God could not make a man without a mans help, for its man and God that makes a man,) but ſayes he a prieſt ſpeaks but a few words and he makes a God <hi>Ipſo facto.</hi> Urging people to meritori<g ref="char:EOLhyphen"/>ous works by way of contribution of monyes to get their deceaſed friends out of Purgatory, which he vehemently inſiſted on (as indeed it brings them moſt monies in) he re<g ref="char:EOLhyphen"/>lated a ſtory of a certaine Godly prince, that had ſo much pity on the poore ſoules in purgatory that he allowed 30. Maſſes a day to be ſaid for them a while after, ſomething like a Spirit came in the night into his Chamber, and frighted him grievouſly, hereupon he calls for help to his ſeverall Servants, <hi>Anthony, Richard, William, Ralph,</hi> come all of you hither preſently, they awakned at his loud cry preſently came into his Chamber, the Prince bad them light a Candle and ſeek diligently for a Spirit that walked too and againe, they after long ſearch about all the houſe could ſee nothing, whereupon they were bid to go to 'bed againe.</p>
+            <p>The next night 'twas wors then before, for the Spirit (ſaith he) heaved up the bed from under him, that the Prince was againe put to it to call out for his ſervants to drive this troubleſome ſpirit out of doores, but all in vaine, for they could not find him.</p>
+            <p>The third night (good lack) was not tollerable, the ſpirit ſo r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unted it in the ſaid Chamber, that <hi>Gregory</hi> and <hi>Cud<g ref="char:EOLhyphen"/>bert,</hi> and all muſt riſe once more to unkennell the ſpright, but ſtill none could be found.</p>
+            <p>The Prince ſaith he, thus outragious perplexed, and en<g ref="char:EOLhyphen"/>compaſſed with grief and melancholy, muſing (the next
+<pb n="7" facs="tcp:165996:4"/>
+day) what might be the cauſe that he muſt be a meer game for Goblins more then another man, eſpecially ſince he had commiſerated the poore mortalls in Purgatory, and was full of other good works: At laſt ſtriking his naked fiſt upon the table by which he ſate, after he had re<g ref="char:EOLhyphen"/>collected his thoughts call me hither (ſaith he) my Stew<g ref="char:EOLhyphen"/>ard forthwith: the Steward appearing, and the Prince looking wiſhly upon him, ſaith he haſt thou paid for the 30 Maſſes a day as I bad thee, which I feare me is the cauſe I am thus haunted a nights, the Steward being ſtruck as it were dumb of aſtoniſhment and ſhame, intending to poc<g ref="char:EOLhyphen"/>ket up the money himſelf, immediatly confeſſed the guilt, Oh thou raſcall thou Hedge-hogg that thou art quoth the Prince, goe, the firſt thing thou doeſt and pay for 100. Maſſes a day that I be no more thus plagued with Devils when I ſhould ſleep a nights. Theſe his commands being accordingly performed, the Prince never heard of any more Goblins after, but (ſaith he) ſlept as well as any one of us.</p>
+            <p>Thus farr; for matter of their preaching I ſhall now con<g ref="char:EOLhyphen"/>clude with a ſtory latety acted in this place.</p>
+            <p>Their courteouſneſſe being taken notice of both by their friends as well as well as their foes, occationed this follow<g ref="char:EOLhyphen"/>ing ſtratagem; Halfe a dozen ſchollers falling in company with one of the Jeſuits Pupils in their diſcourſe upbraided their Fathers with uncharitableneſſe to the Poore: ſaying ſaying that if a poor neighbour lying ſick ſhould ſend for them at any convenient of night for their aſſiſtane and comfort they would ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arſe ſtir from their chambers whereas, let them have the leaſt invitation from a rich body and they are ready at all times of the night the pupils took their Maſters part ſaying it was otherwiſe with them.</p>
+            <p>Hereupon the schollers reſolving to try <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onclutions ſee ſome inſtruments at work to goe to the Colledge prſently after 9. a clock one night who knocking at doore acquain<g ref="char:EOLhyphen"/>ted
+<pb n="8" facs="tcp:165996:5"/>
+the porter they were ſent from ſuch a poore man 'dwelling not far of, who being as it was thought deadly ſick, did much deſire the preſence of ſuch and ſuch Fathers to comfort him and pray with him</p>
+            <p>
+               <hi>This being carried up to them, they ſent to them anſwer that it was not a fitting time of night to require that at their hands, and that be<g ref="char:EOLhyphen"/>ſides ſome of them were preparing to preach next day.</hi>
+            </p>
+            <p>Some few nights after, they ſent againe very late being after mid<g ref="char:EOLhyphen"/>night, and knockt up a Porter, acquainting him that ſuch a rich Mer<g ref="char:EOLhyphen"/>chant by name, dwelling at a great diſtance from that Colledge: being very dangerouſly ſick had ſent to them, deſiring earneſtly that they would come away as well to confeſs him, as alſo to help him to order his laſt will Teſtament, and that 'twas conceived he had not many hours to live: The porter bad the meſſengers tarry, and that he would go call them up: who accordingly half ready came down to them on, ſaying they were ſory to heare of the ſad condition of that worthy pious Gentleman, whom they had ſo lately ſeen at Church; and that they would ſoon be ready to give him their beſt aſsiſtance. Where<g ref="char:EOLhyphen"/>upon one of the Meſſengers deſired to run home before, pretending to acquaint the ſick party of their intended comming, and left the other to ſerve them as a guide. He that was gone before gave notice to his comrades who were ready in ambuſcado, waiting the comming of our holy Fathers, And taking their opportunity, they very hand<g ref="char:EOLhyphen"/>ſomely ſet on them with good Cudgels, belabouring them to ſome tune and ſo left them ſprauling on the pavement for helfe dead: none of the Inhabitants daring to appeare for their aſsiſtance, it beieg very dangerous in moſt Cities of Italy to open door<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after midnight, by reaſon of many inſolences The next day complaints were made to the Magi<g ref="char:EOLhyphen"/>ſtrate of ſuch high indignities acted on theſe eminent Religious perſons deſiring that inqusſition might be made to find out the authors there<g ref="char:EOLhyphen"/>of. Now at the ſame time there were libells ſtuck up in many chiefe publick places of the City, declaring the whole ground work and car<g ref="char:EOLhyphen"/>riage of the buſineſſe; which being produced and read before as well of the Magiſtrate as the Ieſuits, they were faine to retire with their blowes on their backs, to the perpetuall ſhame of them and their ſocie<g ref="char:EOLhyphen"/>ty. Thus with my moſt affectionate Reſpects to all our friends, I k<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe your hands and remaine</p>
+            <closer>
+               <signed>Your obliged friend and ſervant R. Y.</signed>
+Pray excuſe my haſt and brevity at this time your laſt Letter was four dayes older than the others, but was never the ſimpler for that you'l ſay.</closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
